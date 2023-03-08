@@ -1,0 +1,17 @@
+{
+    "name": "ddenysov/symfony-bus",
+    "autoload": {
+        "psr-4": {
+            "Ddenysov\\SymfonyBus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmytro Denysov",
+            "email": "denisov1985@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/messenger": "^6.2"
+    }
+}
